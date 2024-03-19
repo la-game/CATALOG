@@ -1,0 +1,9 @@
+[
+    {
+        "name": "mondot",
+        "download": {
+            "linux": "https://github.com/thiagola92/Mondot/releases/download/1.0.1/mondot-linux.zip",
+            "windows": "https://github.com/thiagola92/Mondot/releases/download/1.0.1/mondot-windows.zip"
+        }
+    }
+]
