@@ -1,9 +1,7 @@
 [
     {
+        "id": 1,
         "name": "mondot",
-        "download": {
-            "linux": "https://github.com/thiagola92/Mondot/releases/download/1.0.1/mondot-linux.zip",
-            "windows": "https://github.com/thiagola92/Mondot/releases/download/1.0.1/mondot-windows.zip"
-        }
+        "image": "https://godotengine.org/assets/press/logo_vertical_color_light.webp"
     }
 ]
